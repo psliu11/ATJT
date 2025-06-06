@@ -1,3 +1,3 @@
-Usage
+1. download amazon dataset in 
 
-python run.py
+2. python run.py
